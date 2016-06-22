@@ -1,0 +1,10 @@
+c:\users\administrator\documents\visual studio 2013\Projects\SpreadSheetLightCSharpApp\SpreadSheetLightCSharpApp\bin\Debug\SpreadSheetLightCSharpApp.exe.config
+c:\users\administrator\documents\visual studio 2013\Projects\SpreadSheetLightCSharpApp\SpreadSheetLightCSharpApp\obj\Debug\SpreadSheetLightCSharpApp.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2013\Projects\SpreadSheetLightCSharpApp\SpreadSheetLightCSharpApp\bin\Debug\SpreadSheetLightCSharpApp.exe
+c:\users\administrator\documents\visual studio 2013\Projects\SpreadSheetLightCSharpApp\SpreadSheetLightCSharpApp\bin\Debug\SpreadSheetLightCSharpApp.pdb
+c:\users\administrator\documents\visual studio 2013\Projects\SpreadSheetLightCSharpApp\SpreadSheetLightCSharpApp\bin\Debug\DocumentFormat.OpenXml.dll
+c:\users\administrator\documents\visual studio 2013\Projects\SpreadSheetLightCSharpApp\SpreadSheetLightCSharpApp\bin\Debug\SpreadsheetLight.dll
+c:\users\administrator\documents\visual studio 2013\Projects\SpreadSheetLightCSharpApp\SpreadSheetLightCSharpApp\bin\Debug\SpreadsheetLight.xml
+c:\users\administrator\documents\visual studio 2013\Projects\SpreadSheetLightCSharpApp\SpreadSheetLightCSharpApp\obj\Debug\SpreadSheetLightCSharpApp.exe
+c:\users\administrator\documents\visual studio 2013\Projects\SpreadSheetLightCSharpApp\SpreadSheetLightCSharpApp\obj\Debug\SpreadSheetLightCSharpApp.pdb
+c:\users\administrator\documents\visual studio 2013\Projects\SpreadSheetLightCSharpApp\SpreadSheetLightCSharpApp\bin\Debug\Newtonsoft.Json.dll
